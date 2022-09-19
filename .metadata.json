@@ -2,13 +2,5 @@
   {
     "package": "lifecontingencies",
     "oncran": true
-  },
-  {
-    "package": "markovchain",
-    "oncran": true
-  },
-  {
-    "package": "mbbefd",
-    "oncran": true
   }
 ]
