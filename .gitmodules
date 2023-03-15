@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "markovchain"]
-	path = markovchain
-	url = https://github.com/spedygiorgio/markovchain
-	shallow = true
-	registered = true
 [submodule "lifecontingencies"]
 	path = lifecontingencies
 	url = https://github.com/spedygiorgio/lifecontingencies
+	shallow = true
+	registered = true
+[submodule "markovchain"]
+	path = markovchain
+	url = https://github.com/spedygiorgio/markovchain
 	shallow = true
 	registered = true
 [submodule "mbbefd"]
