@@ -1,10 +1,10 @@
 [
   {
-    "package": "lifecontingencies",
+    "package": "markovchain",
     "oncran": true
   },
   {
-    "package": "markovchain",
+    "package": "lifecontingencies",
     "oncran": true
   },
   {
